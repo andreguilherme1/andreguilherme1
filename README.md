@@ -18,6 +18,8 @@ Sou um estudante de Análise e desenvolvimento de sistemas, atualmente no quarto
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreguilherme1&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=busca-cep-sistemas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=curso-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=busca-cep-sistemas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/busca-cep-sistemas
+)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=curso-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/curso-webcurso-web
+)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
