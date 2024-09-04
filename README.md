@@ -27,5 +27,7 @@ Sou um estudante de Análise e desenvolvimento de sistemas 🎓, atualmente no q
 )
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=curso-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/curso-webcurso-web
 )
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=projeto-lista-angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/projeto-lista-angular)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source
+)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andreguilherme1&repo=projeto-lista-angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andreguilherme1/projeto-lista-angular
+)
