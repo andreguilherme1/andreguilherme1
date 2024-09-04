@@ -1,5 +1,9 @@
 # André Guilherme
-Sou um estudante de Análise e desenvolvimento de sistemas, atualmente no quarto período, entusiasta da tecnologia e sigo constantemente na busca de novos conhecimentos.
+## Desenvolvedor Full Stack
+Sou um estudante de Análise e desenvolvimento de sistemas, atualmente no quarto período, entusiasta da tecnologia e atualmente sigo buscando me desenvolver na área de Desenvolvimento Web.
+  * 🌍 Recife - PE
+  * ✉️ Contato: andreguilherme645@gmail.com
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-guilherme-518207196/)
