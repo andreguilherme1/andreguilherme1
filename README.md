@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é André Guilherme
-## Desenvolvedor Full Stack
-Sou um estudante de Análise e desenvolvimento de sistemas 🎓, atualmente no quarto período, entusiasta da tecnologia e atualmente sigo buscando me desenvolver na área de Desenvolvimento Web 👨‍💻.
+## Desenvolvedor Full Stack 👨‍💻
+Sou um estudante de Análise e desenvolvimento de sistemas 🎓, atualmente no quarto período, entusiasta da tecnologia e atualmente sigo buscando me desenvolver na área de Desenvolvimento Web 💻.
   * 🌍 Recife - PE
   * ✉️ Contato: andreguilherme645@gmail.com
 
