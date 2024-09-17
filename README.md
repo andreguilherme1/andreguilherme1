@@ -2,8 +2,9 @@
 ## Desenvolvedor Full Stack 👨‍💻
 Sou um estudante de Análise e desenvolvimento de sistemas 🎓, atualmente no quarto período, entusiasta da tecnologia e atualmente sigo buscando me desenvolver na área de Desenvolvimento Web 💻.
   * 🌍 Recife - PE
+  * 🧑‍🎓 Estudante - Faculdade Nova Roma
+  * 🖥️ Desenvolvedor Trainee - Direction Systems
   * ✉️ Contato: andreguilherme645@gmail.com
-
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-guilherme-518207196/)
@@ -17,7 +18,6 @@ Sou um estudante de Análise e desenvolvimento de sistemas 🎓, atualmente no q
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreguilherme1&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
