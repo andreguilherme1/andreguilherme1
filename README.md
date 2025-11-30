@@ -1,9 +1,9 @@
 # Olá 👋, meu nome é André Guilherme
 ## Desenvolvedor Full Stack 👨‍💻
-Sou um estudante de Ciências da computação 🎓, atualmente no sexto período, entusiasta da tecnologia e atualmente sigo buscando me desenvolver na área de Desenvolvimento Web 💻.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em desenvolvimento web 💻.
   * 🌍 Recife - PE
-  * 🧑‍🎓 Estudante - Faculdade Nova Roma
-  * 🖥️ Desenvolvedor Trainee - Direction Systems
+  * 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - Faculdade Nova Roma
+  * 🖥️ Desenvolvedor Fullstack - Direction Systems
   * ✉️ Contato: andreguilherme645@gmail.com
 
 ## Conecte-se comigo
