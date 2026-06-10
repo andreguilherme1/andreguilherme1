@@ -3,7 +3,7 @@
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em desenvolvimento web 💻.
   * 🌍 Recife - PE
   * 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - Faculdade Nova Roma
-  * 🖥️ Desenvolvedor Fullstack - Direction Systems
+  * 🖥️ Custom Software Engineering Associate - Accenture
   * ✉️ Contato: andreguilherme645@gmail.com
 
 ## Conecte-se comigo
